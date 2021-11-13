@@ -1,0 +1,44 @@
+body{
+  width: 100%;
+  height: 100%;
+  background: url(file:///C:/Users/M/Desktop/pexels-bri-schneiter-346529.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 3rem;
+  text-align: center;
+  padding-top: 25%;
+  
+}
+.btn-primary{
+  background-color: darksalmon;
+  border-color: darksalmon;
+}
+  .btn{
+      font-weight: 700;
+      border-radius: 300px;
+      text-transform: uppercase;
+  }
+  .btn-xl{
+      padding: 1rem 2rem;
+  }
+  .btn-primary:hover{
+      background-color: dimgray;
+      border-color: dimgray;
+  }
+  hr{
+      border-color: dimgray;
+      border-width: 3px;
+      max-width: 65px;
+  }
+  .text-center{
+      text-align: center;
+  
+  }
+  .text-centers{
+      text-align: center;
+  }
